@@ -1,0 +1,24 @@
+
+h2{
+color: white;
+}
+body{
+background-image: url(img/HD-wallpaper-dragon-ball-super-goku-muscles-anime.jpg);
+background-repeat:no-repeat ;
+color: white;
+box-shadow: inset 0px 0px 20px white;
+padding: 115px;
+
+}
+input{
+    background-color: burlywood;
+    color: black;
+    border-radius: 10px ;
+}
+button{
+    background-color: white;
+    border-radius: 10px;
+}
+a{
+
+}
